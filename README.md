@@ -5,14 +5,14 @@ This repository contains practical assignments and experiments for **Savitribai 
 
 ## 📂 Repository Structure
 SPPU-BE-AIDS-Practicals/
-|
-├── 7th_Sem/
-│ ├── CL-I/
-|    ├── Data Modelling and Visualization
-|    └── Machine Learning
-│ └── CL-II/
-|    ├── Information Retrieval
-|    └── Industrial Internet of Things
+7th_Sem/
+ ├── CL-I/
+ │   ├── Data Modelling and Visualization/
+ │   └── Machine Learning/
+ └── CL-II/
+     ├── Information Retrieval/
+     └── Industrial Internet of Things/
+
 
 ---
 ## 🧩 7th Semester
